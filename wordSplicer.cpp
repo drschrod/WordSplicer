@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  wordSplicer.cpp
 //  WordSplicer
 //
 //  Created by Dylan Schroder on 12/29/15.
